@@ -1,2 +1,4 @@
 # jivan-1.c
-First Website on GitHub 
+Hi !!
+I'm Jivan .
+It's my First Website on GitHub 
